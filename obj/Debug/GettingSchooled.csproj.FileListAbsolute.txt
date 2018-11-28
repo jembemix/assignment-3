@@ -1,0 +1,7 @@
+C:\Users\samso\Desktop\GettingSchooled\GettingSchooled\obj\Debug\GettingSchooled.csprojAssemblyReference.cache
+C:\Users\samso\Desktop\GettingSchooled\GettingSchooled\obj\Debug\GettingSchooled.csproj.CoreCompileInputs.cache
+C:\Users\samso\Desktop\GettingSchooled\GettingSchooled\bin\Debug\GettingSchooled.exe.config
+C:\Users\samso\Desktop\GettingSchooled\GettingSchooled\bin\Debug\GettingSchooled.exe
+C:\Users\samso\Desktop\GettingSchooled\GettingSchooled\bin\Debug\GettingSchooled.pdb
+C:\Users\samso\Desktop\GettingSchooled\GettingSchooled\obj\Debug\GettingSchooled.exe
+C:\Users\samso\Desktop\GettingSchooled\GettingSchooled\obj\Debug\GettingSchooled.pdb
